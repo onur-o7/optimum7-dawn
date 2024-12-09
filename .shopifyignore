@@ -1,0 +1,16 @@
+package.json
+jsconfig.json
+package-lock.json
+build/
+vite.config.js
+.gitignore
+.prettierignore
+.prettierrc.json
+.theme-check.yml
+.vscode/
+*.md
+translation.yml
+node_modules
+.git/
+.github/
+assets/.vite
